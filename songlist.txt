@@ -1,4 +1,4 @@
-songlist = {
+return {
     "https://cdn.discordapp.com/attachments/819970664077328425/1114643377544253480/ebanko1.mp3?ex=66086e0a&is=65f5f90a&hm=f2208f8670284fd990b417c91caf8d2b436dae947170d943861bc2d8bba6b696&",
     "https://cdn.discordapp.com/attachments/819970664077328425/1221193067701211197/bobspong.mp3?ex=6611afac&is=65ff3aac&hm=abed2736354eafc848120cf9e904955fc9517847280035fd644e648554080fa9&",
     "https://cdn.discordapp.com/attachments/819970664077328425/1221466140866252841/gorodok-prikoly-nashego-gorodka.mp3?ex=6612adfd&is=660038fd&hm=d15c7d7e2dc9d18a0bd1fe456ae045d14ccd1b0af69fa15320d046b4b74a3c8a&",
