@@ -1,39 +1,13 @@
-"https://www.dropbox.com/s/cpw3fcy9tuelcwr/zopagorit.mp3?dl=1"
-"https://www.dropbox.com/s/95u4vaxmuhjzm6t/spazzmatica.mp3?dl=1"
-"https://www.dropbox.com/s/2igqhh6gud95561/%D0%92%D0%B5%D1%80%D0%BA%D0%B0%20%D0%A1%D0%B5%D1%80%D0%B4%D1%8E%D1%87%D0%BA%D0%B0-%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%BE-kissvk.com.mp3?dl=1"
-"https://www.dropbox.com/s/5plvtoz62nw74xj/YoshiSong.mp3?dl=1"
-"https://www.dropbox.com/s/w42teecdmxv5tmc/tetris%20de%20penis.mp3?dl=1"
-"https://www.dropbox.com/s/2igqhh6gud95561/xorosho.mp3?dl=1"
-"https://www.dropbox.com/s/iv2voa1j40fjqw5/VirusMusic.mp3?dl=1"
-"https://www.dropbox.com/s/xcpjp9fhu6yj1ng/Spanishflea%20boost.mp3?dl=1"
-"https://www.dropbox.com/s/zmx5hc6p3j20lti/spongebobchaseguitar.mp3?dl=1"
-"https://www.dropbox.com/s/4l0sfh343ju4gkb/numberonekazooie.mp3?dl=1"
-"https://www.dropbox.com/s/fs3djf97ss0yu59/camogons.mp3?dl=1"
-"https://www.dropbox.com/s/1jzgj2n7wwfmkfo/kazahstanbombbass.mp3?dl=1"
-"https://www.dropbox.com/s/05tutwc9rk75tyi/miiiiay.mp3?dl=1"
-"https://www.dropbox.com/s/ywr9a841924010x/Baila%20Mi%20Cumbia%20-Jimmy%20Fontanez.mp3?dl=1"
-"https://www.dropbox.com/s/v1xvfp4908vg21w/billy%20jean.mp3?dl=1"
-"https://www.dropbox.com/s/i0s3savdf7allsg/akbar%20samplet.mp3?dl=1"
-"https://www.dropbox.com/s/tdw9zu6weh7jswi/armiyagachi.mp3?dl=1"
-"https://www.dropbox.com/s/g8bf7v1ywnpsoo3/remont.mp3?dl=1"
-"https://www.dropbox.com/s/zcw1823q3h8duhq/mestouparashi.mp3?dl=1"
-"https://www.dropbox.com/s/vb5sikplw36guci/mestouparashi%20cutted.mp3?dl=1"
-"https://cdn.discordapp.com/attachments/707018593581137921/737425762461679686/f6d3bf86bd3b605d.mp3"
-"https://cdn.discordapp.com/attachments/707018593581137921/730583484586000484/SpySexelent.mp3"
-"https://www.dropbox.com/s/kv7eiu8r4b7v8jv/prikolchastushki%20boosted.mp3?dl=1"
-"https://www.dropbox.com/s/ww8r1bfcaugnnrv/bingbong.mp3?dl=1"
-"https://www.dropbox.com/s/0awqr6kjwres5f1/numberonegachiBOOSTED.mp3?dl=1"
-"https://www.dropbox.com/s/zrcd9ubhjz3be1h/kompromat%20TEMP.mp3?dl=1"
-"https://www.dropbox.com/s/n3g7x12ew9d9qae/xorosho%20gachimix.mp3?dl=1"
-"https://www.dropbox.com/s/3hbi7jbn5c981kg/Cantinaband.mp3?dl=1"
-"https://www.dropbox.com/s/1moaqcsdqw3vxay/Space%20Asshole.mp3?dl=1"
-"https://www.dropbox.com/s/nlw42jsc41w160o/slepakov.mp3?dl=1"
-"https://www.dropbox.com/s/sbcn6okc65ii6h7/galileotheme.mp3?dl=1"
-"https://www.dropbox.com/s/z1niknld67zvhzt/SpongeBobDoubleBoosted.mp3?dl=1"
-"https://www.dropbox.com/s/41cn56demmdxlzl/sakkijarven%20bayan%20BOOST.mp3?dl=1"
-"https://www.dropbox.com/s/vdwhox2hnxfzldo/S%C3%A4kkij%C3%A4rven%20polkka.mp3?dl=1"
-"https://www.dropbox.com/s/4ccyll1ycb0jkbs/tarantellabass.mp3?dl=1"
-"https://www.dropbox.com/s/2z248cl9ihdh6s6/vpalatubistra.mp3?dl=1"
-"https://cdn.discordapp.com/attachments/708969376413646873/770696255357714442/-_-18-kissvk.com.mp3"
-"https://cdn.discordapp.com/attachments/708969376413646873/774003493786091520/-_-16-kissvk.com.mp3"
-"https://cdn.discordapp.com/attachments/708969376413646873/783394891626840114/kokozhambaromashka.mp3"
+songlist = {
+    "https://cdn.discordapp.com/attachments/819970664077328425/1114643377544253480/ebanko1.mp3?ex=66086e0a&is=65f5f90a&hm=f2208f8670284fd990b417c91caf8d2b436dae947170d943861bc2d8bba6b696&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/1221193067701211197/bobspong.mp3?ex=6611afac&is=65ff3aac&hm=abed2736354eafc848120cf9e904955fc9517847280035fd644e648554080fa9&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/1221466140866252841/gorodok-prikoly-nashego-gorodka.mp3?ex=6612adfd&is=660038fd&hm=d15c7d7e2dc9d18a0bd1fe456ae045d14ccd1b0af69fa15320d046b4b74a3c8a&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/1223390926450462930/-_-2021-_kissvk.com.mp3?ex=6619ae96&is=66073996&hm=d32a0f27ba7d40da4ef85b8821c7ce70ae4e706907a67f0c2f8031a97f129039&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/957719965165830235/-_-kissvk.com.mp3?ex=6612f139&is=66007c39&hm=371ddf9a782355f179ebc6a634e003bd5b7e003344d61050ff6021e47c2f55bf&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/919290666297724959/maxlunar-bandit_music-kissvk.com.mp3?ex=661190a6&is=65ff1ba6&hm=99621f126ab87d03cb9eccd9905eabde3cf88e61244c1f56f460b87747994fad&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/903769705280594030/-_.mp3?ex=6619b320&is=66073e20&hm=614670fb326de2b46ca826cb402541cd9bbedcacc474177f279ababaa0721e7f&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/894590599624294431/prikolchastushki_boosted.mp3?ex=6613fdeb&is=660188eb&hm=882664f0016c4ba9a4b22dcdff336be9c5db82fa49fccf3a8a6476d87aced5a7&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/888845484490383400/SPEED.mp3?ex=66118c5d&is=65ff175d&hm=641ab13d8955a58d12dd1348416185620edd599ab9de859a5c473258bce6645b&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/829062156791054376/chastushki_30min.mp3?ex=66158acd&is=660315cd&hm=e7cdb64b6bd5b9a2bb530701b31fe90ad21076971ad7c3311df78ef1a684bc6c&",
+    "https://cdn.discordapp.com/attachments/819970664077328425/1223947267724283994/--kissvk.com.mp3?ex=661bb4b8&is=66093fb8&hm=b4fdc6567ad04207f716d4f8ae94d32f75e9f8a9a7969bc862d73b79ab9924d0&"
+}
