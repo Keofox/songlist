@@ -1,13 +1,7 @@
 return {
-    "https://cdn.discordapp.com/attachments/819970664077328425/1114643377544253480/ebanko1.mp3?ex=668b9b4a&is=668a49ca&hm=882600aad24d8de914733d3f3ca25306b5efbfbac94cce039e77245d3cb46a9f&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/1221193067701211197/bobspong.mp3?ex=668ba26c&is=668a50ec&hm=1e951d45303ad95b3890857a421f4ac27955eb4c0d0970dc1059dae0afdd0c31&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/1221466140866252841/gorodok-prikoly-nashego-gorodka.mp3?ex=668bf7fd&is=668aa67d&hm=bbfaeebedcd9e2452e0f00a67d0ab5483b30eab0d2192d39290a523c3e744cd8&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/1223390926450462930/-_-2021-_--kissvk.com.mp3?ex=668bb856&is=668a66d6&hm=96bcfaae62bfd9842818b3213103e74b2062ca46ffda85fe81788a3b0aa3bca3&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/1223947084093198397/-14--kissvk.com.mp3?ex=668bc40c&is=668a728c&hm=d4b0c92e3b6d194f8c9f7ea05abb6f29dec9356e06f516a5d8d0ffaed0a7d050&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/919290666297724959/maxlunar-bandit_music-kissvk.com.mp3?ex=668c2c26&is=668adaa6&hm=e307c518f83831a685576637e23c41cc1ec031cd332e55c6f3440ad4a6d10689&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/1110907195547189268/-_.mp3?ex=668bdb73&is=668a89f3&hm=a1f9ad0f9274ea86975a4b0dbd13dca206c7df9092852a9385b58a6e84985df1&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/908828721912369182/prikolchastushki_boosted.mp3?ex=668baf74&is=668a5df4&hm=3c9fde55ce5dd62f16e68a34e2c2b0b31de17bd937642c3f3963125286200b3f&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/888845484490383400/SPEED.mp3?ex=66118c5d&is=65ff175d&hm=641ab13d8955a58d12dd1348416185620edd599ab9de859a5c473258bce6645b&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/829062156791054376/chastushki_30min.mp3?ex=66158acd&is=660315cd&hm=e7cdb64b6bd5b9a2bb530701b31fe90ad21076971ad7c3311df78ef1a684bc6c&",
-    "https://cdn.discordapp.com/attachments/819970664077328425/1223947267724283994/--kissvk.com.mp3?ex=661bb4b8&is=66093fb8&hm=b4fdc6567ad04207f716d4f8ae94d32f75e9f8a9a7969bc862d73b79ab9924d0&"
+    "https://www.dropbox.com/scl/fi/5ek2h7dk5wtrpx510994l/feat-Belocorpse-Gitarist-cover-kissvk.com.mp3?rlkey=o6kntrgmaqsz4rtao4e8kelvb&st=qcilmqt7&dl=1",
+    "https://www.dropbox.com/scl/fi/8cpgxxs4baxjzkjy5w9ul/kissvk.com.mp3?rlkey=clrgghhye68xelo1e423x319o&st=qx81dwpl&dl=1",
+    "https://www.dropbox.com/scl/fi/ywc4tpubx6yz0tloc8agb/kissvk.com.mp3?rlkey=w061qcxl5y2w5bywf747lxxgu&st=g13iyj57&dl=1",
+    "https://www.dropbox.com/scl/fi/ir94hja3p5cj8u2ezhrn2/kissvk.com.mp3?rlkey=5f9wnlid7yl8bi4ktua835ain&st=ikcbzdh3&dl=1",
+    "https://www.dropbox.com/scl/fi/ie91mz5k72rro6ep5wxak/Psychotico-Psychotico-Remix-kissvk.com.mp3?rlkey=0vgu2wxuw32iqel6ueibx7gma&st=qic5ujxz&dl=1",
 }
